@@ -6,15 +6,14 @@ This project aims to reconstruct the offline character images back to online han
 
 For questions or more details, please contact us via email addresses: ntuanhung@gmail.com or nakagawa (at) cc.tuat.ac.jp
 
-## Demo - Recovered samples
-### 1. Successfully and Unsuccessfully recovered samples
+## Demo
+### 1. Recovered samples
 
-A successful recover sample
+A successful recovered sample
 
 ![Attention successful recovery](https://github.com/ntuanhung/im2ink/blob/master/demo_gif/unsucess_2.gif)
 
-
-An unsuccessful recover sample
+An unsuccessful recovered sample
 
 ![Attention unsuccessful recovery](https://github.com/ntuanhung/im2ink/blob/master/demo_gif/unsucess_1.gif)
 
