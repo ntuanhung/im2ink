@@ -1,19 +1,21 @@
 # im2ink
 
-
 ## Overview
 This project aims to reconstruct the offline character images back to online handwritten trajectories using an encoder-decoder with attention and GMM.
 
 For questions or more details, please contact us via email addresses: ntuanhung@gmail.com or nakagawa (at) cc.tuat.ac.jp
 
 ## Demo
-### 1. Recovered samples
+### 1. Recovered samples with attention
 
-A successful recovered sample
+The left-hand side images present the attention maps during decoding steps, where brighter pixels are higher focused on.
+The right-hand side images show the corresponding recovered trajectories.
+
+**A successful recovered sample**
 
 ![Attention successful recovery](https://github.com/ntuanhung/im2ink/blob/master/demo_gif/unsucess_2.gif)
 
-An unsuccessful recovered sample
+**An unsuccessful recovered sample**
 
 ![Attention unsuccessful recovery](https://github.com/ntuanhung/im2ink/blob/master/demo_gif/unsucess_1.gif)
 
