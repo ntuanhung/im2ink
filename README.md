@@ -21,7 +21,7 @@ An unsuccessful recover sample
 ### 2. Unnatural recorved samples
 Although the following samples are successfully recovered, their online trajectories consist of more points than the original ones.
 
-Original &nbsp; &nbsp; &nbsp; Recovered trajectories
+**Original &nbsp; &nbsp; &nbsp; Recovered trajectories**
 
 
 ![Original speed](https://github.com/ntuanhung/im2ink/blob/master/demo_gif/unnatural_2_org.gif)
