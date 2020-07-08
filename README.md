@@ -215,7 +215,7 @@ The samples are unsuccessfully recovered either with or without attention layer.
     </tbody>
 </table>
 
-### 2. Unnatural recorved samples (Figures 6(a) in the paper)
+### 2. Unnatural recorved samples (Figure 6(a) in the paper)
 
 Although the following samples are successfully recovered, their online trajectories consist of more points than the original ones as shown in Figure 6 (a).
 
@@ -255,7 +255,7 @@ Although the following samples are successfully recovered, their online trajecto
     </tbody>
 </table>
 
-### 3. Incompletedly recovered samples (Figures 6(b) in the paper)
+### 3. Incompletedly recovered samples (Figure 6(b) in the paper)
 
 As shown in Figure 6 (b), there are incompletedly recovered samples when attention was stuck.
 
