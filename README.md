@@ -92,7 +92,6 @@ Next, the samples are successfully recovered either with or without attention la
     </tbody>
 </table>
 
-<br>
 The samples were successfully recovered with attention layer, but unsuccesfully recovered without attention layer.
 
 <table align="center">
@@ -170,7 +169,6 @@ The samples were successfully recovered with attention layer, but unsuccesfully 
     </tbody>
 </table>
 
-<br>
 The samples are unsuccessfully recovered either with or without attention layer.
 
 <table align="center">
